@@ -27,6 +27,13 @@ public class ChatroomList extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+
+
+
+
+
+
     }
 
 }
